@@ -15,3 +15,4 @@ Implement the ability to save the source array and the results of its processing
 on the specified array.
 All erroneous situations should be handled correctly,
 and appropriate messages should be issued if necessary.
+<img src="https://github.com/micalman-bit/array-processing-programs/blob/main/Screenshots/massif.png?raw=true" width="950">
